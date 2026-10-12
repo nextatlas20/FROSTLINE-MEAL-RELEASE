@@ -1,0 +1,14 @@
+lot_id,meal,kitchen,packed_on,safe_max_c,required_checks,active,revision
+ML-01,Lentil Stew,North Hub,2091-11-20,4.5,2,yes,1
+ML-02,Vegetable Rice,East Hub,2091-11-24,5.0,3,yes,1
+ML-03,Bean Chili,South Hub,2091-11-18,4.0,1,yes,1
+ML-04,Tomato Pasta,West Hub,2091-11-28,4.5,2,yes,1
+ML-05,Chickpea Curry,Central Hub,2091-11-15,5.5,2,yes,2
+ML-06,Old Curry,Central Hub,2091-11-15,5.5,2,yes,1
+ML-06,Chickpea Curry,Central Hub,2091-11-15,5.5,2,yes,2
+ML-07,Inactive Soup,North Hub,2091-11-19,4.0,2,no,1
+ML-02, Vegetable Rice , East Hub ,2091-11-24,5.0,2,yes,2
+ML-08,Bad Temperature,West Hub,2091-11-20,4,2,yes,1
+ML-09,Pipe|Meal,West Hub,2091-11-20,4.0,2,yes,1
+ML-X1,Bad Identifier,West Hub,2091-11-20,4.0,2,yes,1
+ML-10,Missing Fields,West Hub,2091-11-20,4.0,yes,1
