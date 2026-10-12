@@ -1,0 +1,7 @@
+lot_id,meal,kitchen,packed_on,status,eligible_checks,required_checks,peak_c
+ML-01,Lentil Stew,North Hub,2091-11-20,cleared,2,2,4.4
+ML-02,Vegetable Rice,East Hub,2091-11-24,cleared,3,2,5.0
+ML-03,Bean Chili,South Hub,2091-11-18,quarantine,1,1,4.3
+ML-04,Tomato Pasta,West Hub,2091-11-28,insufficient,1,2,3.9
+ML-05,Chickpea Curry,Central Hub,2091-11-15,insufficient,1,2,5.1
+ML-06,Chickpea Curry,Central Hub,2091-11-15,quarantine,2,2,5.6
